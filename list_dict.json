@@ -1,0 +1,26 @@
+{
+   "emp1": {
+      "Name": "NEELAM",
+      "Disignation": "PROGRAMMER",
+      "Age": "24",
+      "Salary": "2000"
+   },
+   "emp2": {
+      "Name": "NIDHI",
+      "Disignation": "TRAINER",
+      "Age": "29",
+      "Salary": "30000"
+   },
+   "emp3": {
+      "Name": "ANURAG",
+      "Disignation": "HR",
+      "Age": "28",
+      "Salary": "50000"
+   },
+   "emp4": {
+      "Name": "ABHISHEK",
+      "Disignation": "MANAGER",
+      "Age": "25",
+      "Salary": "64000"
+   }
+}

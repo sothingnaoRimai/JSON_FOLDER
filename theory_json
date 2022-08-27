@@ -1,0 +1,21 @@
+JSON is a syntax for storing and exchanging data.
+JSON is a text, written, with java script object notation.
+JSON in python- python has a build in package called json which 
+python can be used to work with json data
+
+USES of JSON
+Used to transmit data from server to web application and from web applications 
+to the client
+Web services ad API's do things in giving him public data of the same format
+
+CHARACTERISTICS
+it is very easy to read anf write
+JSON language is an independent language. They are not dependent on anyone
+light weight and text-based interchange format
+
+DUMPS: convert python object to json string
+DUMP: write dictionary to json file/converts to json file
+LOADS: convert jso string into python objects.
+LOAD: write /read json file/converts to dict
+
+
